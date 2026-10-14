@@ -4,6 +4,8 @@ Full-stack engineer in Lahore (UTC+5). I find real bugs in tools people use ever
 
 [LinkedIn](https://www.linkedin.com/in/saadanjum36) · [saadanjum239@gmail.com](mailto:saadanjum239@gmail.com)
 
+<img src="assets/terminal.svg" width="1000" alt="A terminal session: whoami, then gh pr list --author Saadanjum0 --state merged, listing eleven merged fixes, then contact details." />
+
 <img src="assets/merged.svg" width="1000" alt="Eleven pull requests merged into nvm, anything-llm, TheAlgorithms/Java, python-patterns, kitty, lucide, Ciphey, bash-it, caprover, flux2 and neo." />
 
 <details>

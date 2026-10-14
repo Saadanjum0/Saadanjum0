@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="640" viewBox="0 0 1000 640" role="img" aria-label="Terminal session listing Saad Anjum's merged open-source pull requests">
+<defs>
+<radialGradient id="vig" cx="0.5" cy="0.5" r="0.75"><stop offset="0.55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.85"/></radialGradient>
+<radialGradient id="tube" cx="0.5" cy="0.45" r="0.8"><stop offset="0" stop-color="#0d2a12"/><stop offset="1" stop-color="#03110a"/></radialGradient>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#000" fill-opacity="0.28"/></pattern>
+<filter id="glow" x="-5%" y="-5%" width="110%" height="110%"><feGaussianBlur stdDeviation="1.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="scr"><rect x="18" y="18" width="964" height="604" rx="26"/></clipPath>
+<linearGradient id="bezel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2b2b2b"/><stop offset="1" stop-color="#101010"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.07"/><stop offset="0.45" stop-color="#fff" stop-opacity="0"/></linearGradient>
+</defs>
+<style>
+text{font-family:ui-monospace,"SF Mono",Menlo,Consolas,"DejaVu Sans Mono",monospace;font-size:16px;white-space:pre}
+.cur{animation:blink 1.1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.flick{animation:fl 0.13s steps(2) infinite}
+@keyframes fl{50%{opacity:0.96}}
+.roll{animation:roll 7s linear infinite}
+@keyframes roll{from{transform:translateY(-120px)}to{transform:translateY(640px)}}
+@keyframes l0{0%,4.887%{clip-path:inset(0 100% 0 0)}6.903%,100%{clip-path:inset(0 -2% 0 0)}}
+@keyframes l1{0%,9.041%{opacity:0}9.051%,100%{opacity:1}}
+@keyframes l3{0%,10.141%{clip-path:inset(0 100% 0 0)}25.260%,100%{clip-path:inset(0 -2% 0 0)}}
+@keyframes l4{0%,27.398%{opacity:0}27.408%,100%{opacity:1}}
+@keyframes l5{0%,28.192%{opacity:0}28.202%,100%{opacity:1}}
+@keyframes l6{0%,28.986%{opacity:0}28.996%,100%{opacity:1}}
+@keyframes l7{0%,29.780%{opacity:0}29.790%,100%{opacity:1}}
+@keyframes l8{0%,30.574%{opacity:0}30.584%,100%{opacity:1}}
+@keyframes l9{0%,31.368%{opacity:0}31.378%,100%{opacity:1}}
+@keyframes l10{0%,32.162%{opacity:0}32.172%,100%{opacity:1}}
+@keyframes l11{0%,32.957%{opacity:0}32.967%,100%{opacity:1}}
+@keyframes l12{0%,33.751%{opacity:0}33.761%,100%{opacity:1}}
+@keyframes l13{0%,34.545%{opacity:0}34.555%,100%{opacity:1}}
+@keyframes l14{0%,35.339%{opacity:0}35.349%,100%{opacity:1}}
+@keyframes l15{0%,36.133%{opacity:0}36.143%,100%{opacity:1}}
+@keyframes l17{0%,37.233%{opacity:0}37.243%,100%{opacity:1}}
+@keyframes l19{0%,38.332%{clip-path:inset(0 100% 0 0)}42.028%,100%{clip-path:inset(0 -2% 0 0)}}
+@keyframes l20{0%,44.166%{opacity:0}44.176%,100%{opacity:1}}
+@keyframes l21{0%,44.960%{opacity:0}44.970%,100%{opacity:1}}
+</style>
+<rect width="1000" height="640" rx="34" fill="url(#bezel)"/>
+<rect x="6" y="6" width="988" height="628" rx="30" fill="#0a0a0a"/>
+<g clip-path="url(#scr)">
+<rect width="1000" height="640" fill="url(#tube)"/>
+<g class="flick" filter="url(#glow)">
+<text x="52" y="76" style="animation:l0 16.369999999999997s steps(6,end) infinite" fill="#9fd6a4"><tspan fill="#5a9a62">saad@lahore:~$ </tspan><tspan fill="#ffffff">whoami</tspan></text>
+<text x="52" y="100" fill="#9fd6a4" style="animation:l1 16.369999999999997s step-end infinite">Muhammad Saad Anjum  ·  full-stack engineer  ·  Lahore, PK (UTC+5)</text>
+<text x="52" y="148" style="animation:l3 16.369999999999997s steps(45,end) infinite" fill="#9fd6a4"><tspan fill="#5a9a62">saad@lahore:~$ </tspan><tspan fill="#ffffff">gh pr list --author Saadanjum0 --state merged</tspan></text>
+<text x="52" y="172" fill="#5a9a62" style="animation:l4 16.369999999999997s step-end infinite">  REPO                 STARS     FIX</text>
+<text x="52" y="196" fill="#9fd6a4" style="animation:l5 16.369999999999997s step-end infinite">  nvm-sh/nvm           ████████  95k   &#96;nvm use&#96; with regex chars in $NVM_DIR</text>
+<text x="52" y="220" fill="#9fd6a4" style="animation:l6 16.369999999999997s step-end infinite">  anything-llm         ██████    67k   wrong express response method</text>
+<text x="52" y="244" fill="#9fd6a4" style="animation:l7 16.369999999999997s step-end infinite">  TheAlgorithms/Java   ██████    66k   out-of-bounds in HowManyTimesRotated</text>
+<text x="52" y="268" fill="#9fd6a4" style="animation:l8 16.369999999999997s step-end infinite">  faif/python-patterns ████      43k   KeyError in BFS on leaf nodes</text>
+<text x="52" y="292" fill="#9fd6a4" style="animation:l9 16.369999999999997s step-end infinite">  kovidgoyal/kitty     ███       35k   unescaped spaces in pkg-config paths</text>
+<text x="52" y="316" fill="#9fd6a4" style="animation:l10 16.369999999999997s step-end infinite">  lucide-icons/lucide  ██        25k   unescaped SVG attribute values</text>
+<text x="52" y="340" fill="#9fd6a4" style="animation:l11 16.369999999999997s step-end infinite">  bee-san/Ciphey       ██        22k   rail-fence sized by bytes, not chars</text>
+<text x="52" y="364" fill="#9fd6a4" style="animation:l12 16.369999999999997s step-end infinite">  Bash-it/bash-it      █         15k   alias completion breaks on a quote</text>
+<text x="52" y="388" fill="#9fd6a4" style="animation:l13 16.369999999999997s step-end infinite">  caprover/caprover    █         15k   backups drop dangling symlinks (macOS)</text>
+<text x="52" y="412" fill="#9fd6a4" style="animation:l14 16.369999999999997s step-end infinite">  fluxcd/flux2         █          8k   plugin archive entries with ./ prefix</text>
+<text x="52" y="436" fill="#9fd6a4" style="animation:l15 16.369999999999997s step-end infinite">  neomjs/neo                      3k   form margin lost on stylesheet order</text>
+<text x="52" y="484" fill="#d8c87a" style="animation:l17 16.369999999999997s step-end infinite">  11 merged  ·  395k stars of reach  ·  Go Rust Python TypeScript Shell</text>
+<text x="52" y="532" style="animation:l19 16.369999999999997s steps(11,end) infinite" fill="#9fd6a4"><tspan fill="#5a9a62">saad@lahore:~$ </tspan><tspan fill="#ffffff">cat contact</tspan></text>
+<text x="52" y="556" fill="#9fd6a4" style="animation:l20 16.369999999999997s step-end infinite">linkedin.com/in/saadanjum36   saadanjum239@gmail.com</text>
+<g style="animation:l21 16.369999999999997s step-end infinite"><text x="52" y="580" fill="#5a9a62">saad@lahore:~$ </text><rect class="cur" x="197" y="565" width="10" height="19" fill="#9fd6a4"/></g>
+</g>
+<rect class="roll" width="1000" height="120" fill="#fff" fill-opacity="0.025"/>
+<rect width="1000" height="640" fill="url(#scan)"/>
+<rect width="1000" height="640" fill="url(#vig)"/>
+<rect width="1000" height="640" fill="url(#glass)"/>
+</g>
+<rect x="18" y="18" width="964" height="604" rx="26" fill="none" stroke="#000" stroke-opacity="0.9" stroke-width="3"/>
+<circle cx="960" cy="616" r="3.5" fill="#ff3b30"><animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/></circle>
+</svg>
