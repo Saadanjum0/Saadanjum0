@@ -1,6 +1,6 @@
 ### Muhammad Saad Anjum
 
-Full-stack engineer in Lahore (UTC+5). I find real bugs in tools people use every day, reproduce them, fix them, and get the fix merged.
+Full-stack engineer at Dubizzle Labs, Lahore (UTC+5). I find real bugs in tools people use every day, reproduce them, fix them, and get the fix merged.
 
 [LinkedIn](https://www.linkedin.com/in/saadanjum36) · [saadanjum239@gmail.com](mailto:saadanjum239@gmail.com)
 
