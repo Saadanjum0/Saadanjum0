@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="505" viewBox="0 0 1000 505" role="img" aria-label="Eleven merged pull requests, sized by project stars">
+<defs>
+<radialGradient id="core" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#bc8cff"/><stop offset="1" stop-color="#58a6ff"/></radialGradient>
+<linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#111a33"/></linearGradient>
+<pattern id="grid2" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.04"/></pattern>
+<clipPath id="r2"><rect width="1000" height="505" rx="18"/></clipPath>
+</defs>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.lb{font-size:13px;fill:#e6edf3;font-weight:600}
+.ls{font-size:11px;fill:#eac54f}
+.ti{font-family:'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif;font-size:15px;fill:#8b98b8;letter-spacing:2px}
+@keyframes flow{to{stroke-dashoffset:-20}}
+@keyframes halo{0%,100%{transform:scale(.85);opacity:.5}50%{transform:scale(1.25);opacity:1}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes core{50%{transform:scale(1.12)}}
+.ring{animation:flow 4s linear infinite}
+.core{transform-origin:500px 268px;animation:core 3s ease-in-out infinite}
+</style>
+<g clip-path="url(#r2)">
+<rect width="1000" height="505" fill="url(#bg2)"/><rect width="1000" height="505" fill="url(#grid2)"/>
+<text class="ti" x="500" y="34" text-anchor="middle">MERGED CONTRIBUTIONS · SIZED BY PROJECT STARS</text>
+<ellipse class="ring" cx="500" cy="268" rx="395" ry="150" fill="none" stroke="#58a6ff" stroke-opacity="0.3" stroke-dasharray="2 8"/>
+<line x1="500" y1="268" x2="500.0" y2="118.0" stroke="#89e051" stroke-opacity="0.55" stroke-width="1.4" stroke-dasharray="4 6" style="animation:flow 3s linear infinite;animation-delay:-0.0s"/>
+<line x1="500" y1="268" x2="713.6" y2="141.8" stroke="#dea584" stroke-opacity="0.55" stroke-width="1.4" stroke-dasharray="4 6" style="animation:flow 3s linear infinite;animation-delay:-0.3s"/>
+<line x1="500" y1="268" x2="859.3" y2="205.7" stroke="#b07219" stroke-opacity="0.55" stroke-width="1.4" stroke-dasharray="4 6" style="animation:flow 3s linear infinite;animation-delay:-0.6s"/>
+<line x1="500" y1="268" x2="891.0" y2="289.3" stroke="#00ADD8" stroke-opacity="0.55" stroke-width="1.4" stroke-dasharray="4 6" style="animation:flow 3s linear infinite;animation-delay:-0.9s"/>
+<line x1="500" y1="268" x2="798.5" y2="366.2" stroke="#3572A5" stroke-opacity="0.55" stroke-width="1.4" stroke-dasharray="4 6" style="animation:flow 3s linear infinite;animation-delay:-1.2s"/>
+<line x1="500" y1="268" x2="611.3" y2="411.9" stroke="#3178c6" stroke-opacity="0.55" stroke-width="1.4" stroke-dasharray="4 6" style="animation:flow 3s linear infinite;animation-delay:-1.5s"/>
+<line x1="500" y1="268" x2="388.7" y2="411.9" stroke="#f1e05a" stroke-opacity="0.55" stroke-width="1.4" stroke-dasharray="4 6" style="animation:flow 3s linear infinite;animation-delay:-1.8s"/>
+<line x1="500" y1="268" x2="201.5" y2="366.2" stroke="#f1e05a" stroke-opacity="0.55" stroke-width="1.4" stroke-dasharray="4 6" style="animation:flow 3s linear infinite;animation-delay:-2.1s"/>
+<line x1="500" y1="268" x2="109.0" y2="289.3" stroke="#3572A5" stroke-opacity="0.55" stroke-width="1.4" stroke-dasharray="4 6" style="animation:flow 3s linear infinite;animation-delay:-2.4s"/>
+<line x1="500" y1="268" x2="140.7" y2="205.7" stroke="#89e051" stroke-opacity="0.55" stroke-width="1.4" stroke-dasharray="4 6" style="animation:flow 3s linear infinite;animation-delay:-2.7s"/>
+<line x1="500" y1="268" x2="286.4" y2="141.8" stroke="#3178c6" stroke-opacity="0.55" stroke-width="1.4" stroke-dasharray="4 6" style="animation:flow 3s linear infinite;animation-delay:-3.0s"/>
+
+<g class="core"><circle cx="500" cy="268" r="46" fill="#58a6ff" fill-opacity="0.12"/><circle cx="500" cy="268" r="34" fill="url(#core)"/><text x="500" y="273" text-anchor="middle" font-size="15" font-weight="700" fill="#0b1020">SAAD</text></g>
+<g>
+<circle cx="500.0" cy="118.0" r="36.2" fill="#89e051" fill-opacity="0.10" style="transform-origin:500.0px 118.0px;animation:halo 3.2s ease-in-out infinite;animation-delay:-0.00s"/>
+<circle cx="500.0" cy="118.0" r="27.2" fill="#89e051" fill-opacity="0.9" stroke="#ffffff" stroke-opacity="0.65" stroke-width="1.5"/>
+<text x="500.0" y="66.8" text-anchor="middle" class="lb">nvm</text>
+<text x="500.0" y="80.8" text-anchor="middle" class="ls">★ 95k</text>
+</g>
+<g>
+<circle cx="713.6" cy="141.8" r="30.1" fill="#dea584" fill-opacity="0.10" style="transform-origin:713.6px 141.8px;animation:halo 3.2s ease-in-out infinite;animation-delay:-0.28s"/>
+<circle cx="713.6" cy="141.8" r="21.1" fill="#dea584" fill-opacity="0.9" stroke="#ffffff" stroke-opacity="0.65" stroke-width="1.5"/>
+<text x="713.6" y="96.7" text-anchor="middle" class="lb">Ciphey</text>
+<text x="713.6" y="110.7" text-anchor="middle" class="ls">★ 22k</text>
+</g>
+<g>
+<circle cx="859.3" cy="205.7" r="34.7" fill="#b07219" fill-opacity="0.10" style="transform-origin:859.3px 205.7px;animation:halo 3.2s ease-in-out infinite;animation-delay:-0.56s"/>
+<circle cx="859.3" cy="205.7" r="25.7" fill="#b07219" fill-opacity="0.9" stroke="#ffffff" stroke-opacity="0.65" stroke-width="1.5"/>
+<text x="859.3" y="156.0" text-anchor="middle" class="lb">TheAlgorithms/Java</text>
+<text x="859.3" y="170.0" text-anchor="middle" class="ls">★ 66k</text>
+</g>
+<g>
+<circle cx="891.0" cy="289.3" r="26.4" fill="#00ADD8" fill-opacity="0.10" style="transform-origin:891.0px 289.3px;animation:halo 3.2s ease-in-out infinite;animation-delay:-0.84s"/>
+<circle cx="891.0" cy="289.3" r="17.4" fill="#00ADD8" fill-opacity="0.9" stroke="#ffffff" stroke-opacity="0.65" stroke-width="1.5"/>
+<text x="891.0" y="323.8" text-anchor="middle" class="lb">flux2</text>
+<text x="891.0" y="337.8" text-anchor="middle" class="ls">★ 8k</text>
+</g>
+<g>
+<circle cx="798.5" cy="366.2" r="32.1" fill="#3572A5" fill-opacity="0.10" style="transform-origin:798.5px 366.2px;animation:halo 3.2s ease-in-out infinite;animation-delay:-1.12s"/>
+<circle cx="798.5" cy="366.2" r="23.1" fill="#3572A5" fill-opacity="0.9" stroke="#ffffff" stroke-opacity="0.65" stroke-width="1.5"/>
+<text x="798.5" y="406.3" text-anchor="middle" class="lb">kitty</text>
+<text x="798.5" y="420.3" text-anchor="middle" class="ls">★ 35k</text>
+</g>
+<g>
+<circle cx="611.3" cy="411.9" r="28.7" fill="#3178c6" fill-opacity="0.10" style="transform-origin:611.3px 411.9px;animation:halo 3.2s ease-in-out infinite;animation-delay:-1.40s"/>
+<circle cx="611.3" cy="411.9" r="19.7" fill="#3178c6" fill-opacity="0.9" stroke="#ffffff" stroke-opacity="0.65" stroke-width="1.5"/>
+<text x="611.3" y="448.6" text-anchor="middle" class="lb">caprover</text>
+<text x="611.3" y="462.6" text-anchor="middle" class="ls">★ 15k</text>
+</g>
+<g>
+<circle cx="388.7" cy="411.9" r="34.7" fill="#f1e05a" fill-opacity="0.10" style="transform-origin:388.7px 411.9px;animation:halo 3.2s ease-in-out infinite;animation-delay:-1.68s"/>
+<circle cx="388.7" cy="411.9" r="25.7" fill="#f1e05a" fill-opacity="0.9" stroke="#ffffff" stroke-opacity="0.65" stroke-width="1.5"/>
+<text x="388.7" y="454.6" text-anchor="middle" class="lb">anything-llm</text>
+<text x="388.7" y="468.6" text-anchor="middle" class="ls">★ 67k</text>
+</g>
+<g>
+<circle cx="201.5" cy="366.2" r="23.1" fill="#f1e05a" fill-opacity="0.10" style="transform-origin:201.5px 366.2px;animation:halo 3.2s ease-in-out infinite;animation-delay:-1.96s"/>
+<circle cx="201.5" cy="366.2" r="14.1" fill="#f1e05a" fill-opacity="0.9" stroke="#ffffff" stroke-opacity="0.65" stroke-width="1.5"/>
+<text x="201.5" y="397.3" text-anchor="middle" class="lb">neo</text>
+<text x="201.5" y="411.3" text-anchor="middle" class="ls">★ 3k</text>
+</g>
+<g>
+<circle cx="109.0" cy="289.3" r="32.9" fill="#3572A5" fill-opacity="0.10" style="transform-origin:109.0px 289.3px;animation:halo 3.2s ease-in-out infinite;animation-delay:-2.24s"/>
+<circle cx="109.0" cy="289.3" r="23.9" fill="#3572A5" fill-opacity="0.9" stroke="#ffffff" stroke-opacity="0.65" stroke-width="1.5"/>
+<text x="109.0" y="330.2" text-anchor="middle" class="lb">python-patterns</text>
+<text x="109.0" y="344.2" text-anchor="middle" class="ls">★ 43k</text>
+</g>
+<g>
+<circle cx="140.7" cy="205.7" r="28.7" fill="#89e051" fill-opacity="0.10" style="transform-origin:140.7px 205.7px;animation:halo 3.2s ease-in-out infinite;animation-delay:-2.52s"/>
+<circle cx="140.7" cy="205.7" r="19.7" fill="#89e051" fill-opacity="0.9" stroke="#ffffff" stroke-opacity="0.65" stroke-width="1.5"/>
+<text x="140.7" y="162.0" text-anchor="middle" class="lb">bash-it</text>
+<text x="140.7" y="176.0" text-anchor="middle" class="ls">★ 15k</text>
+</g>
+<g>
+<circle cx="286.4" cy="141.8" r="30.7" fill="#3178c6" fill-opacity="0.10" style="transform-origin:286.4px 141.8px;animation:halo 3.2s ease-in-out infinite;animation-delay:-2.80s"/>
+<circle cx="286.4" cy="141.8" r="21.7" fill="#3178c6" fill-opacity="0.9" stroke="#ffffff" stroke-opacity="0.65" stroke-width="1.5"/>
+<text x="286.4" y="96.1" text-anchor="middle" class="lb">lucide</text>
+<text x="286.4" y="110.1" text-anchor="middle" class="ls">★ 25k</text>
+</g>
+</g>
+<rect x="1" y="1" width="998" height="503" rx="17" fill="none" stroke="#58a6ff" stroke-opacity="0.3" stroke-width="2"/>
+</svg>
