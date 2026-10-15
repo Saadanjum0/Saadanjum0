@@ -1,12 +1,12 @@
 ### Muhammad Saad Anjum
 
-Full-stack engineer at Dubizzle Labs, Lahore (UTC+5). I find real bugs in tools people use every day, reproduce them, fix them, and get the fix merged.
+Full-stack engineer in Lahore (UTC+5). I find real bugs in tools people use every day, reproduce them, fix them, and get the fix merged.
 
 [LinkedIn](https://www.linkedin.com/in/saadanjum36) · [saadanjum239@gmail.com](mailto:saadanjum239@gmail.com)
 
-<img src="assets/terminal.svg" width="1000" alt="A terminal session: whoami, then gh pr list --author Saadanjum0 --state merged, listing eleven merged fixes, then contact details." />
+<img src="assets/terminal.svg" width="1000" alt="A terminal session: whoami, then gh pr list --author Saadanjum0 --state merged, listing twelve merged fixes, then contact details." />
 
-<img src="assets/merged.svg" width="1000" alt="Eleven pull requests merged into nvm, anything-llm, TheAlgorithms/Java, python-patterns, kitty, lucide, Ciphey, bash-it, caprover, flux2 and neo." />
+<img src="assets/merged.svg" width="1000" alt="Twelve pull requests merged into nvm, anything-llm, TheAlgorithms/Java, python-patterns, kitty, lucide, Ciphey, bash-it, caprover, flux2, neo and mcp-memory-service." />
 
 <details>
 <summary>Links to each pull request</summary>
@@ -25,6 +25,7 @@ Full-stack engineer at Dubizzle Labs, Lahore (UTC+5). I find real bugs in tools 
 | caprover/caprover | Preserve dangling symlinks in backups on macOS | [#2511](https://github.com/caprover/caprover/pull/2511) |
 | fluxcd/flux2 | Match plugin archive entries with a leading `./` | [#6099](https://github.com/fluxcd/flux2/pull/6099) |
 | neomjs/neo | Keep a form field's `margin-bottom` across stylesheet load order | [#19412](https://github.com/neomjs/neo/pull/19412) |
+| doobidoo/mcp-memory-service | Skip semantic dedup when pulling memories in hybrid sync | [#1507](https://github.com/doobidoo/mcp-memory-service/pull/1507) |
 
 </details>
 
