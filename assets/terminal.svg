@@ -56,7 +56,7 @@ text{font-family:ui-monospace,"SF Mono",Menlo,Consolas,"DejaVu Sans Mono",monosp
 <text x="52" y="340" fill="#9fd6a4" style="animation:l11 16.63s step-end infinite">  bee-san/Ciphey       ██        22k   rail-fence sized by bytes, not chars</text>
 <text x="52" y="364" fill="#9fd6a4" style="animation:l12 16.63s step-end infinite">  Bash-it/bash-it      █         15k   alias completion breaks on a quote</text>
 <text x="52" y="388" fill="#9fd6a4" style="animation:l13 16.63s step-end infinite">  caprover/caprover    █         15k   backups drop dangling symlinks (macOS)</text>
-<text x="52" y="412" fill="#9fd6a4" style="animation:l14 16.63s step-end infinite">  mealie-recipes/m... █         14k   LDAP filter run as the wrong account</text>
+<text x="52" y="412" fill="#9fd6a4" style="animation:l14 16.63s step-end infinite">  mealie-recipes/m...  █         14k   LDAP filter run as the wrong account</text>
 <text x="52" y="436" fill="#9fd6a4" style="animation:l15 16.63s step-end infinite">  fluxcd/flux2         █          8k   plugin archive entries with ./ prefix</text>
 <text x="52" y="460" fill="#9fd6a4" style="animation:l16 16.63s step-end infinite">  neomjs/neo                      3k   form margin lost on stylesheet order</text>
 <text x="52" y="484" fill="#9fd6a4" style="animation:l17 16.63s step-end infinite">  doobidoo/mcp-memory...          2k   sync re-ran dedup on pulled memories</text>
